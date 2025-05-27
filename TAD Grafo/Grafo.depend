@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1748269147 source:c:\users\jelph\dropbox\ifpr\aulas\2025\teoria de grafos - parte prática\github\grafos-bcc\tad grafo\grafo.cpp
+	<iostream>
+	<queue>
+	"grafo.h"
+
+1748269188 c:\users\jelph\dropbox\ifpr\aulas\2025\teoria de grafos - parte prática\github\grafos-bcc\tad grafo\grafo.h
+
+1748269058 source:c:\users\jelph\dropbox\ifpr\aulas\2025\teoria de grafos - parte prática\github\grafos-bcc\tad grafo\main.cpp
+	<iostream>
+	"grafo.h"
+

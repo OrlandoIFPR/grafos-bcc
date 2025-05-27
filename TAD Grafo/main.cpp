@@ -16,5 +16,9 @@ int main() {
 
     imprimirGrafo(g);
 
+    buscaEmLargura(g, 0);
+
+    buscaEmProfundidade(g, 0);
+
     return 0;
 }
