@@ -7,12 +7,43 @@ Cada grupo deverá estudar, implementar e apresentar um algoritmo clássico de g
 ### Divisão dos grupos:
 Formem grupos com até 5 integrantes. Cada grupo ficará responsável por um dos seguintes algoritmos:
 
-* Kahn (Ordenação Topológica)
-* Prim (Árvore Geradora Mínima)
-* Kruskal (Árvore Geradora Mínima)
-* Floyd-Warshall (Todos os Caminhos Mínimos)
-* Bellman-Ford (Caminhos Mínimos com Pesos Negativos)
+1. Kahn (Ordenação Topológica)
+    - Felipe da S. A.
+    - Gustavo K. F.
+    - Odair M. D.
+    - Pedro L. O. S.
+    - Rafael N. A.
+
+2. Prim (Árvore Geradora Mínima)
+    - Eduardo Z. S.
+    - Kazuko Y.
+    - Luis G. S. R.
+    - Matheus V. L. S.
+    - Vairtles N. M. L.
+
+3. Kruskal (Árvore Geradora Mínima)
+    - Alisson L. C. A.
+    - Gabriel P. G. P.
+    - Isaac F. G.
+    - Kimberly R. M. S.
+    - Yasmin C. B.
+
+4. Floyd-Warshall (Todos os Caminhos Mínimos)
+    - Guilherme R. C.
+    - Pedro A. C. S.
+    - Rodrigo S. M.
+
+5. Bellman-Ford (Caminhos Mínimos com Pesos Negativos)
+    - Felipe B. W.
+    - Luis F. N. V.
+    - Pablo D. Q.
+
 * Ford-Fulkerson (Fluxo Máximo em Redes)
+    - Alexia de A. Z.
+    - Gabriel M. W.
+    - Guilherme K. M.
+    - Heloisa S. M.
+    - Matheus C. O.
 
 ### Etapas do trabalho:
 1. Pesquisa e Teoria:
